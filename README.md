@@ -22,7 +22,7 @@ This technique is called [RNA Interference][rnai].
 
 ## Instructions
 
-Your task is determine the RNA complement of a given DNA sequence.
+Your task is to determine the RNA complement of a given DNA sequence.
 
 Both DNA and RNA strands are a sequence of nucleotides.
 
